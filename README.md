@@ -19,8 +19,9 @@ Ce script PowerShell simplifie la création d'un projet MVC avec authentificatio
 
 3. Ajoutez la ligne suivante pour charger la fonction New-MVCWithSLN à partir du dossier où vous avez cloné le dépôt :
 
-. "<chemin_vers_le_dossier_cloné>\New-MVCWithSLN.ps1"
-
+    ```sh
+    . "<chemin_vers_le_dossier_cloné>\New-MVCWithSLN.ps1"
+    ```
 
 Assurez-vous de remplacer <chemin_vers_le_dossier_cloné> par le chemin réel vers le dossier où se trouve le script New-MVCWithSLN.ps1.
 
