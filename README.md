@@ -39,9 +39,9 @@ Vous êtes maintenant prêt à utiliser la fonction New-MVCWithSLN pour créer d
 
 Vous pouvez utiliser la fonction en spécifiant le nom du projet et, éventuellement (optionnal), le nom du fichier de solution à créer, ainsi que l'option pour ouvrir Visual Studio. Voici un exemple :
 
-    ```
+    
     New-MVCWithSLN -name "NomDuProjet" -solutionName "NomDuFichierSolution" -openVisualStudio
-    ```
+    
 
 # ENGLISH
 # New-MVCWithSLN
@@ -83,8 +83,8 @@ You are now ready to use the New-MVCWithSLN function to create MVC projects with
 
 You can use the function by specifying the project name and optionally the solution file name to create, as well as the option to open Visual Studio. Here is an example:
 
-    ```
+    
     New-MVCWithSLN -name "ProjectName" -solutionName "SolutionFileName" -openVisualStudio
-    ```
+    
 
 If you need further assistance or have any more requests, feel free to let me know!
